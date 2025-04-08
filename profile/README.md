@@ -56,6 +56,7 @@ We would love to hear from you! Whether you have a question, need a consultation
 
 ## 📍 **Connect With Us**
 
+- **Email**: [sales@walltech.me](mailto:sales@walltech.me) 
 - Website: [www.walltech.me](http://www.walltech.me)
 - LinkedIn: [WallTech LinkedIn](https://www.linkedin.com/company/walltech)
 - DOU: [WallTech DOU](https://jobs.dou.ua/companies/walltech/)
