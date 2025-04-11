@@ -50,16 +50,16 @@ We specialize in the following testing services:
 ## 📧 **Contact Information**
 
 We would love to hear from you! Whether you have a question, need a consultation, or want to explore our services further, feel free to reach out to us.
-- **HRD**: Oleksandra Gorodova
-- **Email**: [hrd@walltech.me](mailto:hrd@walltech.me)
+- HRD: **Oleksandra Gorodova**
+- Email: [**hrd@walltech.me**](mailto:hrd@walltech.me)
 ---
 
 ## 📍 **Connect With Us**
 
-- **Email**: [sales@walltech.me](mailto:sales@walltech.me) 
-- Website: [www.walltech.me](http://www.walltech.me)
-- LinkedIn: [WallTech LinkedIn](https://www.linkedin.com/company/walltech)
-- DOU: [WallTech DOU](https://jobs.dou.ua/companies/walltech/)
+- Email: [**sales@walltech.me**](mailto:sales@walltech.me) 
+- Website: [**www.walltech.me**](http://www.walltech.me)
+- LinkedIn: [**WallTech LinkedIn**](https://www.linkedin.com/company/walltech)
+- DOU: [**WallTech DOU**](https://jobs.dou.ua/companies/walltech/)
 
 
 ---
